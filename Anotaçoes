@@ -1,0 +1,25 @@
+Construção de pagina web
+Prompt: git(testar git)
+
+Clonando repositório do github
+git clone https://github.com/BrennonJK/CPW4_2019_2.git
+
+git: Ferramenta de controle de versão local.
+
+Github: controle de versão na em nuvem
+
+Sequencia de comandos do git:
+Jogar os arquivos para o versionamento:
+Prompt: git add (Add todas as alterações para a próxima versão) .
+
+//apagar pasta ‘.git’
+
+Git config –global user.email “seuemail”
+
+Git config –global user.name “eu”
+
+Prompt: git commit -m “aviso de alteração nessa nova versão”
+
+git push origin master
+
+criar file: README.MD
